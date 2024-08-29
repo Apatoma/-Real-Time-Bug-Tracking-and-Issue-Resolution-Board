@@ -1,4 +1,4 @@
-Here's a README file in English for the Real-Time Bug Tracking and Issue Resolution Board project:
+
 Real-Time Bug Tracking and Issue Resolution Board
 Overview
 
